@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "deep-burner-360219",
+  "private_key_id": "d5748f56761f6621ec38932335d5fe460b168eb2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTyao5TsZCFDk0\n7GCn9YWhy6NSJazPzWxKr1OyFEmlD6T8YJICgqwQx6Uav+zMZmIOPY3tuJGimDpM\nS81cPRA0bhfaQ2xBGH+tqkJQfTU9wykHIFckrlBLbwIzAZ+KGemCUyv/c+/E8IjY\n0L6rPN0sENkg+7BlrNtzHaCuQdtUq3LY6Rm/laAmUIcNjCHLMShzf3lMCmT+NAJg\nzQ8MkGyjo6sADk3URYMVBJgub5wFH8tcrhOh3jPo5ZdXjJE2atVLoAJ0jdHAHWSu\n7SMiQnPFrRFQK6J+wWaOQmeeV+SNlNo5ERVyY9Ur4+fFE686iptbQlMBSza1qoce\nI6Jg6WWDAgMBAAECggEAFtEr6mSsQ24+WOSmkocx0HlKAo2rN/Afx07AVk036fVC\nMdaNpIDuMhia7G4vquMqPp0vGfoVO/k+k/25Wu376Eom07hehLIzqe16m4VXI8JP\nke76tH77M5qlbVgIF4Qsfi1Lw4fQFd2m61pXUHI25Ip5ehjjq5tF6/m4gqL3EwCm\nCb+l1QOu/hVoVYEX2gvhR7VwRHpIcWnM/zawN8cIYMX829I0C5mytjIf/OjTw6Pf\n5aUkz3gViF/YhIqHtRPOHiyWtcEQpcM6b1p2wqkzWCivPf1FQYV+vzN0HsQTXnhC\nF90uKPZAAsWYTmu8KcwcTiajMJBWvUGMv3A92XtaAQKBgQD6U/DGGYNRsWShHEzm\nfo9E+NbiBSiLsovyx83eU/SCW11Vzk6RNz1FV0a7slFLCgblTysLipGa1ZylS/ej\nXkNby4oDBdSEfa4ejZran8jCRSHAgIJepZkBW4amZfX9eiFTYXMFD9VsVrq9vwG6\nLP/Jgq8ywEU+eevncAwRaZPsgQKBgQDYlirWDc8Pqu4hilJNVpnKmPGKkNOzBNlz\n2SjJLYeIcXlMsWJX01SiyCEUFw1ZA1QisTYsiyUQwXywPIoRLFAQQi5tYEcHWYwO\nFGGalFC4+Fxx2nJ+5QXeZJFVk6WT7jdwsl8SgcVdRAyzDRpARGz9B+qmjjIbnGVV\njwUgBd2gAwKBgQDnwb0hes9kW8rhijT8FOIJpiQznzj5lPUScb98fdfatEHGRjnh\nIfY881+OOLogsgjOVixxA/poEipzstBzVLsiCmAdClHF1CHXMZzTmakhiyWDdra8\nb64nXphcB/vlkCO4cXkuj4k1Q1qif2tW9YBfDPmtD+tLu08Xt1nE6S1FgQKBgB9O\nbXitXE22dl9QwB6/stEvFFLkJkWNIOV28UdLFnkpddAZH870FBrHdMiToHFKYuH0\n3ZDIuB3Y6e4LgiWDUztWZaGXtgyg6/apCYavg4+JDsvCOKSQ9C02Oi+1fMyKNWdL\n0SQ6r82QZYmIDlBV068rcsaKbUHCdH9Ogf4j+uoDAoGBANxLBz+b+J22k/Cq+CvW\n3QdpJD8sVdoemgpcEK2IpNoQUxr50+1EgpQ/OWGXuSEbYOeNa91VxTC7Sv4cUjsu\nKDfN7Fqo93SvjwaEJdrESIyfDzDqQY4sVaNaYWVTNf7sC8B6Yb6aERJuj2LyPpHj\n3meoCEB3D56R93QRrfWGd4SS\n-----END PRIVATE KEY-----\n",
+  "client_email": "defect-detector-v1@deep-burner-360219.iam.gserviceaccount.com",
+  "client_id": "101112997588508057678",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/defect-detector-v1%40deep-burner-360219.iam.gserviceaccount.com"
+}
